@@ -13,6 +13,7 @@ namespace Tyuiu.ZuborevDA.Sprint1.Task0.V8
         static void Main(string[] args)
         {
             DataService ds = new DataService();
+
             Console.Title = "Спринт #1 | Выполнил: Зуборев Д. А. | АСОиУБ-23-2";
             Console.WriteLine("******************************************************************************");
             Console.WriteLine("* Спринт #1                                                                  *");
