@@ -17,7 +17,7 @@ namespace Tyuiu.ZuborevDA.Sprint1.Task1.V28
             Console.Title = "Спринт #1 | Выполнил: Зуборев Д. А. | АСОиУБ-23-2";
             Console.WriteLine("******************************************************************************");
             Console.WriteLine("* Спринт #1                                                                  *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                           *");
+            Console.WriteLine("* Тема: Организация ввода и вывода в консольных приложениях                  *");
             Console.WriteLine("* Задание #1                                                                 *");
             Console.WriteLine("* Вариант #28                                                                *");
             Console.WriteLine("* Выполнил: Зуборев Дмитрий Александрович | АСОиУБ-23-2                      *");
@@ -31,7 +31,6 @@ namespace Tyuiu.ZuborevDA.Sprint1.Task1.V28
             Console.WriteLine("******************************************************************************");
 
             double x;
-
             Console.WriteLine("Ввидите значение X:");
             x = Convert.ToDouble(Console.ReadLine());
 
