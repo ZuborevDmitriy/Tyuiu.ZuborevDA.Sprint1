@@ -16,7 +16,7 @@ namespace Tyuiu.ZuborevDA.Sprint1.Task3.V12
             Console.Title = "Спринт #1 | Выполнил: Зуборев Д. А. | АСОиУБ-23-2";
             Console.WriteLine("******************************************************************************");
             Console.WriteLine("* Спринт #1                                                                  *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                           *");
+            Console.WriteLine("* Тема: Операторы составного присваивания                                    *");
             Console.WriteLine("* Задание #3                                                                 *");
             Console.WriteLine("* Вариант #12                                                                *");
             Console.WriteLine("* Выполнил: Зуборев Дмитрий Александрович | АСОиУБ-23-2                      *");
